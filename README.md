@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duy</h1>
 <h3 align="center">A IU-er</h3>
-🌱 I’m currently learning __JAVa OOP__
+🌱 I’m currently learning <strong>JAVa OOP</strong>
 
 <h3>Connect with me:</h3>
 ## 🌐 Socials:
