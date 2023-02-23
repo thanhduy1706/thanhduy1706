@@ -18,8 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhduy1706&icon=9&color=1)](https://visitcount.itsvg.in)
 
-https://github.com/thanhduy1706/thanhduy1706/blob/main/github-user-contribution.svg
-
 ![Snake animation](https://github.com/thanhduy1706/thanhduy1706/blob/output/github-contribution-grid-snake.svg)
 
   ## 💰 You can help me by Donating
