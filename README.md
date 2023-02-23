@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=thanhduy1706&theme=nord&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhduy1706&icon=9&color=1)](https://visitcount.itsvg.in)
