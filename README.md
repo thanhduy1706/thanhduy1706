@@ -18,6 +18,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhduy1706&icon=9&color=1)](https://visitcount.itsvg.in)
 
+https://github.com/thanhduy1706/thanhduy1706/blob/main/github-user-contribution.svg
+
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tduy1706) 
 
