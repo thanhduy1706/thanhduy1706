@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duy</h1>
-<h3 align="center">A IU-er</h3>
+<h3 align="center">An IU-er</h3>
 🌱 I’m currently learning <strong>JAVa OOP</strong>
 
 ## 🌐 Connect with me:
