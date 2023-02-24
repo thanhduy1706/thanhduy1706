@@ -20,6 +20,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhduy1706&icon=9&color=1)](https://visitcount.itsvg.in)
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=o905lisf7zf8ebh9e76ty4r1e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=o905lisf7zf8ebh9e76ty4r1e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+
   ## 💰 You can help me by donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tduy1706) 
 
