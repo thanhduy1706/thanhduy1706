@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thanhduy1706&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhduy1706&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+![Snake animation](https://github.com/thanhduy1706/thanhduy1706/blob/output/github-contribution-grid-snake.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thanhduy1706&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-![Snake animation](https://github.com/thanhduy1706/thanhduy1706/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thanhduy1706&icon=9&color=1)](https://visitcount.itsvg.in)
