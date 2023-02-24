@@ -23,6 +23,8 @@
 
 ![](https://spotify-github-profile.vercel.app/api/view.svg?uid=o905lisf7zf8ebh9e76ty4r1e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=o905lisf7zf8ebh9e76ty4r1e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true")
 
+![GitHub metrics](https://metrics.lecoq.io/thanhduy1706)
+
   ## 💰 You can help me by donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tduy1706) 
 
