@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nguyen Duy</h1>
 <h3 align="center">An IU-er</h3>
-🌱 I’m currently learning <strong>JAVa OOP</strong>
+🌱
 
 ## 🌐 Connect with me
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/t.duy1706) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thanhduy1706) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/SatohStudio) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16719129) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thanhduy1706) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SatohStudio) 
@@ -17,8 +17,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=thanhduy1706&theme=nord&no-frame=false&no-bg=false&margin-w=4)
-
-![](https://spotify-github-profile.vercel.app/api/view.svg?uid=o905lisf7zf8ebh9e76ty4r1e&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=o905lisf7zf8ebh9e76ty4r1e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true") ![](https://metrics.lecoq.io/thanhduy1706)
 
   ## 💰 You can help me by donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tduy1706)
