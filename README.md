@@ -1,9 +1,14 @@
+```bash
 duy@dev-server:~$ whoami
+```
 
-Duy Nguyen
+# Duy Nguyen
 
+```bash
 duy@dev-server:~$ cat /etc/profile.d/developer.sh
+```
 
+```
 # System Information
 ┌─────────────────────────────────────────────────────────────┐
 │ Username    : Duy Nguyen                                    │
@@ -17,9 +22,13 @@ EMAIL       : ndtduy.work@gmail.com
 PORTFOLIO   : https://me.ndtduy.live
 GITHUB      : https://github.com/thanhduy1706
 LINKEDIN    : https://linkedin.com/in/thanhduy1706
+```
 
+```bash
 duy@dev-server:~$ ls -la ~/projects/
+```
 
+```
 total 3
 drwxr-xr-x  5 duy  staff   160 Feb  4 2025 .
 drwxr-xr-x  8 duy  staff   256 Feb  4 2025 ..
@@ -45,11 +54,13 @@ drwxr-xr-x  8 duy  staff  256 Jun 20 2024 intellispace/
 drwxr-xr-x  6 duy  staff  192 Dec 10 2023 datavizx/
   ├── Description: Interactive data visualization with chart analytics
   └── Stack: React | Chart.js | Node.js | MongoDB
+```
 
-
-
+```bash
 duy@dev-server:~$ dpkg -l | grep tech-stack
+```
 
+```
 ii  react              18.2.0    JavaScript library for building user interfaces
 ii  nextjs             14.1.0    React framework for production
 ii  react-native       0.73.0    Framework for building native mobile apps
@@ -64,11 +75,13 @@ ii  jenkins            2.440.1   Automation server
 ii  nginx              1.25.3    HTTP and reverse proxy server
 ii  openai-api         1.10.0    OpenAI API client
 ii  langchain          0.1.0     LLM application framework
+```
 
-
-
+```bash
 duy@dev-server:~$ systemctl status developer.service
+```
 
+```
 ● developer.service - Software Engineer Service
    Loaded: loaded (/etc/systemd/system/developer.service; enabled)
    Active: active (running) since 2021-09-01 08:00:00 ICT; 3 years ago
@@ -88,22 +101,26 @@ Feb 04 08:00:02 dev-server developer[1706]: ✓ Backend skills loaded
 Feb 04 08:00:03 dev-server developer[1706]: ✓ DevOps skills loaded
 Feb 04 08:00:04 dev-server developer[1706]: ✓ AI integration ready
 Feb 04 08:00:05 dev-server developer[1706]: Status: Ready for production
+```
 
-
-
+```bash
 duy@dev-server:~$ curl -s https://api.github.com/users/thanhduy1706 | jq '{commits, repositories, contributions}'
+```
 
+```json
 {
   "commits": "500+",
   "repositories": "20+",
   "contributions": "Daily",
   "streak": "Active"
 }
+```
 
-
-
+```bash
 duy@dev-server:~$ cat /etc/motd
+```
 
+```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
 ║  Welcome to Duy's Developer Server                          ║
@@ -119,7 +136,9 @@ duy@dev-server:~$ cat /etc/motd
 ║  Uptime       : 99.9%                                        ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+```
 
+```bash
 duy@dev-server:~$ sudo systemctl start collaboration.service
 [sudo] password for collaboration: ●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●●
 
@@ -127,10 +146,12 @@ duy@dev-server:~$ sudo systemctl start collaboration.service
 ✓ Ready to build amazing projects together!
 
 duy@dev-server:~$ █
+```
 
+---
 
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=thanhduy1706&color=green&style=flat-square)
 
-
-Profile Views
-
+</div>
